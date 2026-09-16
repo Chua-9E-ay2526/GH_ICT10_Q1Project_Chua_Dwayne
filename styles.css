@@ -1,0 +1,53 @@
+.container {
+    font-family: Lexend;
+    padding: 10px;
+    background-color:aquamarine;
+    border:3px solid gray;
+    width:70%;
+    text-align: center;
+    margin: 0px auto;
+}
+
+body, div {
+    font-family: "Lexend", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    background-color: aquamarine;
+    border :3px solid gray;
+    text-align: center;
+    margin :0px auto;
+    padding: 10px;
+    }
+
+header {
+    font-family: Lexend;
+    background-color: aquamarine;
+    text-align: center;
+}
+
+h1, h2, h4, label {
+    text-align: center;
+}
+
+form, main{
+    font-family: "Lexend", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    background-color: aquamarine;
+    border :3px solid gray;
+    text-align: center;
+    margin :0px auto;
+    padding: 10px;
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: red;
+  color: white;
+  text-align: center;
+}
